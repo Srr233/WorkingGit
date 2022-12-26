@@ -1,4 +1,4 @@
-console.log('Develop branch is here');
+console.log('Now it\'s another text, haha!');
 /*
 Added something new
 */
