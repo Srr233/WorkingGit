@@ -1,4 +1,1 @@
-console.log('Now it\'s another text, haha!');
-/*
-Added something new
-*/
+console.log(1,2,3,4,5)
