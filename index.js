@@ -1,1 +1,5 @@
-console.log('without pushing')
+function func() {
+    console.log('console.log');
+}
+
+func();
