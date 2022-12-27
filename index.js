@@ -4,4 +4,6 @@ function func(d) {
     console.log('console.log: ' + d);
 }
 
-func(10);
+func()
+func();
+func(10)
