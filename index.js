@@ -1,5 +1,7 @@
-function func() {
-    console.log('console.log');
+function func(d) {
+    if (!d) throw new Error();
+
+    console.log('console.log', d);
 }
 
-func();
+func(10);
