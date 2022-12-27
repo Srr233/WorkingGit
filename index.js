@@ -7,3 +7,4 @@ function func(d) {
 func()
 func();
 func(10)
+func(43)
