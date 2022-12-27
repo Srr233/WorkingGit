@@ -4,7 +4,5 @@ function func(d) {
     console.log('console.log: ' + d);
 }
 
-func()
-func();
 func(10)
 func(43)
